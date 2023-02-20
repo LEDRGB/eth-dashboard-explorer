@@ -3,6 +3,14 @@
 - [Download the latest release]()
 - Clone the repo: `git clone `
 
+### Interface
+
+![alt text](https://iili.io/HGc0LOP.png)
+![alt text](https://iili.io/HGc1E7V.png)
+![alt text](https://iili.io/HGcE1Gs.png)
+![alt text](https://iili.io/HGcEDKJ.png)
+
+
 ### Installation
 
 ``` bash
